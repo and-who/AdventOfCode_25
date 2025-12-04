@@ -2,7 +2,8 @@
   "name": "adventofcode_25",
   "packageManager": "yarn@4.9.2",
   "scripts": {
-    "start:01": "ts-node src/01/index.ts"
+    "start:01": "ts-node src/01/index.ts",
+    "start:02": "ts-node src/02/index.ts"
   },
   "devDependencies": {
     "@types/node": "^24.10.1",
